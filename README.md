@@ -51,9 +51,8 @@ This repository provides a comprehensive visualization dashboard analyzing team 
 
 - **Python**
 - **Pandas**, **NumPy** – Data manipulation
-- **Matplotlib**, **Seaborn**, **Plotly** – Visualization
 - **Jupyter Notebook** – Data analysis
-- *(Optional)* Power BI / Tableau – For interactive dashboards
+- **Power BI**- interactive dashboards
 
 ---
 
