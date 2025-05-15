@@ -10,7 +10,7 @@ This repository provides a comprehensive visualization dashboard analyzing team 
 
 #### 📌 Part 1: Bowling and Boundary Insights
 
-![Cricket Data Visualization - Part 1](images/data_visualize)
+![Cricket Data Visualization - Part 1](images/data_visualize.jpg)
 
 - **Wickets by Team**: Highlights bowling strength across teams.
 - **Boundary Runs by Team**: Total boundary contributions per team.
