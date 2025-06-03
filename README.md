@@ -22,7 +22,7 @@ This repository provides a comprehensive visualization dashboard analyzing team 
 
 #### 📌 Part 2: Batting Insights and Role-wise Performance
 
-![Cricket Data Visualization - Part 2](images/data_visualize_2.jpg)
+![Cricket Data Visualization - Part 2](images/data_visualize_2.png)
 
 - **Sixes and Fours by Team**: Measures team aggressiveness.
 - **Boundary Runs by Playing Role**: Shows contribution by batting order or role.
