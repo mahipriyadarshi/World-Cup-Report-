@@ -42,7 +42,6 @@ This repository provides a comprehensive visualization dashboard analyzing team 
 │ ├── data_visualize.jpg
 │ └── data_visualize_2.jpg
 ├── README.md # Project documentation
-└── requirements.txt # Python dependencies
 ```
 
 ---
@@ -63,8 +62,7 @@ This repository provides a comprehensive visualization dashboard analyzing team 
    git clone https://github.com/yourusername/cricket-analytics-dashboard.git
    cd cricket-analytics-dashboard
   ```
-  pip install -r requirements.txt
-```
+  
 
 ---
 
